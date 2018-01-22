@@ -1,0 +1,1 @@
+checkpoints/model--embedding-size-256--hidden-size-512--num_layers-3--batch_size-128--learning-rate-0.001--dropout-keep-prob-0.6/ckpt-4500.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
